@@ -1,0 +1,5 @@
+firstname = "kartik"
+lastname = "mistry"
+age = 17
+
+print("My name is" + firstname + lastname + ", I am" + age + "years old.")
